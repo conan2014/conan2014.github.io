@@ -28,6 +28,10 @@ For this blog post I used Yelp restaurant reviews. The data were provided direct
 
 After separating restaurants from the rest of the businesses, I decided to create a new dataset containing only those restaurants with actual price level and with more than 10 reviews. The rationale behind this is that the median number of reviews for all restaurants is 10.4 and I wanted to strike a balance between having enough restaurants and enough information to work with. 
 
+Here is the Yelp Restaurant Explorer that I created: 
+
+![alt text](https://github.com/conan2014/conan2014.github.io/blob/master/images/Yelp_Explorer1.png)
+
 
 
 
