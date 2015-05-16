@@ -1,9 +1,18 @@
 ---
 layout: post
-title: # H1 Yelp Graph 
+title: Yelp Graph Critique
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Amazing Facts about Yelp:
+
+Number of Yelp reviews (cumulative): 77.3 million reviews
+Number of claimed local business on Yelp: 2.1 million
+Number of countries that Yelp is available in: 27
+
+Yelp has become the go-to place for many consumers looking for ratings and reviews of a variety of businesses. 
+
+Alt-How is rating distributed 
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
