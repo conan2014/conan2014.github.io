@@ -13,8 +13,21 @@ Yelp has become the go-to place for many consumers looking for ratings and revie
 
 How is rating distributed and what affect ratings in general?
 
-Bad Graph:
 ![alt text](http://searchengineland.com/figz/wp-content/seloads/2014/02/Screen-Shot-2014-02-11-at-2.15.33-PM.png)
+
+Critique of the Graph:
+1. fail to mention 188 reviews of what category of business, leaving us guessing
+2. no x-axis label
+3. the bottom graph does not show which years these three months belong to. If it is averaging over all business categories per 30 days, then it does not give us much information
+
+[Bad graph article](http://searchengineland.com/yelp-supersizes-profiles-makes-less-busy-184075)
+
+My Improvement:
+
+For this blog post I used Yelp restaurant reviews. The data were provided directly from Yelp as part of their [Dataset Challenge](http://www.yelp.com/dataset_challenge). The data was extremely large (over 1.6 million reviews, and 61,000 businesses), and the visualization was done using R and Shiny RStudio. My main question is how business-related metrics be good measures of rating and price level prediction from a visual perspetive. 
+
+After separating restaurants from the rest of the businesses, I decided to create a new dataset containing only those restaurants with actual price level and with more than 10 reviews. The rationale behind this is that the median number of reviews for all restaurants is 10.4 and I wanted to strike a balance between having enough restaurants and enough information to work with. 
+
 
 
 
