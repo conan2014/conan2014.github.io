@@ -11,7 +11,7 @@ Number of countries that Yelp is available in: 27
 
 Yelp has become the go-to place for many consumers looking for ratings and reviews of a variety of businesses. 
 
-Alt-How is rating distributed 
+How is rating distributed 
 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
