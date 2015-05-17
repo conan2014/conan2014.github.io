@@ -73,6 +73,4 @@ Some general trends:
 2. Given its relatively fewer number of restaurants reviewed, Wisconsin still have extremely similar distribution to the top three states: Arizona, Nevada, and North Carolina
 3. Baden-Wurttemberg in Germany and Pennsylvania have very similar distribution while Edinburgh and Quebec have very similar distribution. 
 
-How I generate Yelp Restaurant Explorer:
-To generate the graph I leveraged Shiny's movie explorer's code on [github](https://github.com/rstudio/shiny-examples/tree/master/051-movie-explorer)
 
