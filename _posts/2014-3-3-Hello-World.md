@@ -6,7 +6,9 @@ title: Yelp Graph Critique
 Amazing Facts about Yelp:
 
 Number of Yelp reviews (cumulative): 77.3 million reviews
+
 Number of claimed local business on Yelp: 2.1 million
+
 Number of countries that Yelp is available in: 27
 
 Yelp has become the go-to place for many consumers looking for ratings and reviews of a variety of businesses. 
@@ -74,11 +76,3 @@ Some general trends:
 How I generate Yelp Restaurant Explorer:
 To generate the graph I leveraged Shiny's movie explorer's code on [github](https://github.com/rstudio/shiny-examples/tree/master/051-movie-explorer)
 
-
-
-
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
