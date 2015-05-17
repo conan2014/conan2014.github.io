@@ -17,7 +17,7 @@ Yelp has become the go-to place for many consumers looking for ratings and revie
 
 ![alt text](http://searchengineland.com/figz/wp-content/seloads/2014/02/Screen-Shot-2014-02-11-at-2.15.33-PM.png)
 
-Critique of the Graph:
+##### Critique of the Graph:
 
 1. fail to mention 188 reviews of what category of business, leaving us guessing
 2. no x-axis label
@@ -25,7 +25,7 @@ Critique of the Graph:
 
 [Bad graph article](http://searchengineland.com/yelp-supersizes-profiles-makes-less-busy-184075)
 
-My Improvement:
+##### My Improvement:
 
 For this blog post I used Yelp restaurant reviews. The data were provided directly from Yelp as part of their [Dataset Challenge](http://www.yelp.com/dataset_challenge). The data was extremely large (over 1.6 million reviews, and 61,000 businesses), and the visualization was done using R and Shiny RStudio. My main question is how business-related metrics be good measures of rating and price level prediction from a visual perspetive. 
 
@@ -43,7 +43,7 @@ However, it goes without saying that there are several drawbacks with regard to 
 
 ![alt text](https://github.com/conan2014/conan2014.github.io/blob/master/images/Yelp_Explorer2.png)
 
-How I generate Yelp Restaurant Explorer:
+##### How I generate Yelp Restaurant Explorer:
 
 To generate the graph I leveraged Shiny's movie explorer's code on [github](https://github.com/rstudio/shiny-examples/tree/master/051-movie-explorer)
 
