@@ -3,7 +3,7 @@ layout: post
 title: Yelp Graph Critique
 ---
 
-# Amazing Facts about Yelp:
+## Amazing Facts about Yelp:
 
 Number of Yelp reviews (cumulative): 77.3 million reviews
 
