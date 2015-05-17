@@ -19,7 +19,7 @@ Yelp has become the go-to place for many consumers looking for ratings and revie
 
 ##### Critique of the Graph:
 
-1. fails to mention which categories of businesses the 188 reviews belong to, leaving us guessing
+1. fails to mention which categories of businesses the 188 reviews belong to, leaving us guessing. 
 2. no x-axis label
 3. the bottom graph does not show which years these three months belong to. If the graph averages over all business categories per 30 days, then it does not give us much information
 
