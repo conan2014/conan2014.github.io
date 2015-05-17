@@ -16,6 +16,7 @@ How is rating distributed and what affect ratings in general?
 ![alt text](http://searchengineland.com/figz/wp-content/seloads/2014/02/Screen-Shot-2014-02-11-at-2.15.33-PM.png)
 
 Critique of the Graph:
+
 1. fail to mention 188 reviews of what category of business, leaving us guessing
 2. no x-axis label
 3. the bottom graph does not show which years these three months belong to. If it is averaging over all business categories per 30 days, then it does not give us much information
