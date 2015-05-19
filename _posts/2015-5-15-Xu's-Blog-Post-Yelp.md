@@ -64,13 +64,13 @@ We could trace an inverted parabola-shaped imaginary line connecting average pri
 
 ![alt text](https://github.com/conan2014/conan2014.github.io/blob/master/images/Boxplot4.png)
 
-There are couple interesting trend observed from this boxplot. First, restaurants from outside of the U.S, such as Quebec (QC), Edinburgh (EDH), and Ontario (ON), tend to have higher average price level, with the exception of Rhineland-Palatinate (RP) in Germany that has both the lowest mean and median price level. Secondly, in the U.S, East Coast states like Pennsylvania (PA) and South Carolina (SC) tend to have higher price level than their southwest peers. Lastly, price levels in the Mid-West are on par with their southwest counterparts, such as Wisconsin (WI) and Arizona (AZ). 
+There are couple interesting trend observed from this boxplot. First, restaurants from outside of the U.S, such as Quebec (QC), Baden-Wurttemberg (BW) in Germany, and  Edinburgh (EDH), tend to have higher average price level, with the exception of Rhineland-Palatinate (RP) in Germany that has both the lowest mean and median price level. Secondly, in the U.S, East Coast states like Pennsylvania (PA) and South Carolina (SC) tend to have higher price level than their southwest peers. Lastly, price levels in the Mid-West are on par with their southwest counterparts, such as Wisconsin (WI) and Arizona (AZ). 
 
 ![alt text](https://github.com/conan2014/conan2014.github.io/blob/master/images/Boxplot5.png)
 
 Some general trends:
 1. States in the UK and Canada have higher median restaurant ratings than those in the U.S, while states in Germany have the same or lower median ratings than those in the U.S. All U.S states have the same median ratings. 
 2. Given its relatively fewer number of restaurants reviewed, Wisconsin still have extremely similar distribution to the top three states: Arizona, Nevada, and North Carolina (NC)
-3. Baden-Wurttemberg (BW) in Germany and Pennsylvania have very similar distribution while Edinburgh and Quebec have very similar distribution. 
+3. Baden-Wurttemberg and Pennsylvania have very similar distribution while Edinburgh and Quebec have very similar distribution. 
 
 
