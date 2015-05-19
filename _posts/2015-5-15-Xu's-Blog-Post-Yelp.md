@@ -60,7 +60,7 @@ The boxplot on the right clearly shows Nevada has every restaurant with more tha
 
 ![alt text](https://github.com/conan2014/conan2014.github.io/blob/master/images/Boxplot3.png)
 
-We could trace an inverted parabola-shaped imaginary line connecting average price range (diamond-shpaed) across star ratings from low to high. Between star rating 1 and 4, we see as ratings increase, price level generally goes up at a decreasing rate. But when star rating hit 4.5, we observe a dip in average price level that is on par with star rating 2.5. And when rating reaches 5, it is almost on par with rating 3. Such phenomenon suggests taht there are other factors that might affect price level other than ratings. 
+We could trace an inverted parabola-shaped imaginary line connecting average price range (diamond-shaped) across star ratings from low to high. Between star rating 1 and 4, we see as ratings increase, price level generally goes up at a decreasing rate. But when star rating hit 4.5, we observe a dip in average price level that is on par with star rating 2.5. And when rating reaches 5, it is almost on par with rating 3. Such phenomenon suggests that there are other factors that might affect price level other than ratings. 
 
 ![alt text](https://github.com/conan2014/conan2014.github.io/blob/master/images/Boxplot4.png)
 
