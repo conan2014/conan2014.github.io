@@ -69,7 +69,7 @@ There are couple interesting trend observed from this boxplot. First, restaurant
 ![alt text](https://github.com/conan2014/conan2014.github.io/blob/master/images/Boxplot5.png)
 
 Some general trends:
-1. States in the UK and Canada have higher median restaurant ratings than those in the U.S, while states in Germany have the same or lower median ratings than those in the U.S. All U.S states have the same median ratings. 
+1. States in the UK and Canada have higher median restaurant ratings than those in the U.S, while states in Germany have the same or lower median ratings than those in the U.S. All U.S states have the same median ratings (3.5 stars). 
 2. Given its relatively fewer number of restaurants reviewed, Wisconsin still have extremely similar distribution to the top three states: Arizona, Nevada, and North Carolina (NC)
 3. Baden-Wurttemberg and Pennsylvania have very similar distribution while Edinburgh and Quebec have very similar distribution. 
 
