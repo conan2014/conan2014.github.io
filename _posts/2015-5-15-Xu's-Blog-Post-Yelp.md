@@ -33,7 +33,7 @@ After separating restaurants from the rest of the businesses, I decided to creat
 
 Here is the Yelp Restaurant Explorer that I created: 
 
-![alt text](https://github.com/conan2014/conan2014.github.io/blob/master/images/Yelp_Explorer1.png)
+![alt text](https://github.com/conan2014/conan2014.github.io/blob/master/assets/Yelp_Explorer1.png)
 
 The interactive Shiny graph allows users to tinker with different parameters in the dataset and hopefully gain some new insight. For instance, users could adjust number of reviews, star ratings, and price levels by moving the slider bar on the left-hand side. They could also select state and noise level to generate more detailed data. In addition, x and y axis can be adjusted to suit users' need. And more information would be displayed when the cursor hovers over one particular restaurant in the graph. 
 
